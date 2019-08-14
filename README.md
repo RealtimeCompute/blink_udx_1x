@@ -1,0 +1,1 @@
+此demo用于blink 1.x版本的UDX开发
